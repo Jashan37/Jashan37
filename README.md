@@ -60,61 +60,6 @@ I enjoy building projects from scratch, understanding how systems work, and writ
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-# 📌 Featured Projects
-
-## 🫀 Heart Disease Prediction
-
-Machine learning project that predicts heart disease risk using clinical data.
-
-**Tech Used**
-
-- Python
-- Scikit-Learn
-- Pandas
-- NumPy
-- Streamlit
-
-Repository:
-> Coming Soon
-
----
-
-## 🏥 FastAPI Patient Management System
-
-Backend API built while learning FastAPI fundamentals.
-
-Features
-
-- CRUD APIs
-- Pydantic Validation
-- Async Endpoints
-- REST Architecture
-
-Repository:
-> Coming Soon
-
----
-
-## 📊 Data Analysis Projects
-
-A collection of notebooks exploring data preprocessing, visualization, feature engineering, and machine learning experiments.
-
-Repository:
-> Coming Soon
-
----
-
-## 💡 Upcoming Projects
-
-- Authentication Service (JWT + FastAPI)
-- Email Backend API
-- Chat Application Backend
-- Dockerized Backend Projects
-- Machine Learning End-to-End Deployments
-
----
-
 # 📖 Currently Learning
 
 - Backend Development with FastAPI
@@ -126,27 +71,13 @@ Repository:
 
 ---
 
-# 📈 GitHub Goals
-
-- Build production-ready backend projects
-- Write clean and well-documented code
-- Maintain consistent contributions
-- Learn scalable software architecture
-- Explore real-world ML applications
-
----
-
 ## 📫 Connect With Me
 
 📧 Email:
 **jashanpreetsingh3999@gmail.com**
 
-💼 LinkedIn:
-https://linkedin.com/in/YOUR-LINK
-
 🌐 GitHub:
 https://github.com/jashan037
 
 ---
-
 > "Consistency beats intensity. Every project is an opportunity to learn something new."

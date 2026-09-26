@@ -4,15 +4,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jashan037">
+  <a href="https://github.com/Jashan37">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+APIs+with+Java%2C+Node.js+and+Python;Shipping+full-stack+apps+in+TypeScript;Exploring+applied+AI+and+data;Always+learning%2C+always+building" alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
   <a href="mailto:jashanpreetsingh3999@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/jashan037?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
-  <img src="https://komarev.com/ghpvc/?username=jashan037&style=for-the-badge&color=0ea5e9&label=Profile+views" alt="Profile views" />
+  <a href="https://github.com/Jashan37?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Jashan37&style=for-the-badge&color=0ea5e9&label=Profile+views" alt="Profile views" />
 </p>
 
 ---
@@ -53,7 +53,7 @@ I'm a developer who likes building things end to end: the API, the data behind i
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🩺 <a href="https://github.com/jashan037/ARC-AI-powered-Review-of-Claims">ARC: AI-powered Review of Claims</a></h3>
+      <h3>🩺 <a href="https://github.com/Jashan37/ARC-AI-powered-Review-of-Claims">ARC: AI-powered Review of Claims</a></h3>
       <p>Upload health-insurance claim documents and ARC builds the claim, explains what's likely to be paid and why, and generates a PDF report for the insurer's team. All numbers and rules are computed in pure Python; the language model only explains, and every reply is checked by guards before it reaches the user.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -63,7 +63,7 @@ I'm a developer who likes building things end to end: the API, the data behind i
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎬 <a href="https://github.com/jashan037/Flix">Flix: Movie Rating App</a></h3>
+      <h3>🎬 <a href="https://github.com/Jashan37/Flix">Flix: Movie Rating App</a></h3>
       <p>A Flask web app to browse, search, rate and review movies, with user accounts, secure password hashing and a personal rating history.</p>
       <p>
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
@@ -75,7 +75,7 @@ I'm a developer who likes building things end to end: the API, the data behind i
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💸 <a href="https://github.com/jashan037/ExpenseTracker">ExpenseTracker</a></h3>
+      <h3>💸 <a href="https://github.com/Jashan37/ExpenseTracker">ExpenseTracker</a></h3>
       <p>A cross-platform mobile app for tracking everyday spending, built with Expo and React Native using file-based routing.</p>
       <p>
         <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -84,7 +84,7 @@ I'm a developer who likes building things end to end: the API, the data behind i
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🕷️ <a href="https://github.com/jashan037/custom-javascript-web-crawler">Custom Web Crawler</a></h3>
+      <h3>🕷️ <a href="https://github.com/Jashan37/custom-javascript-web-crawler">Custom Web Crawler</a></h3>
       <p>A Node.js command-line crawler that walks a website, follows internal links and prints a report of the pages it found.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -94,7 +94,7 @@ I'm a developer who likes building things end to end: the API, the data behind i
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>🧩 <a href="https://github.com/jashan037/Data-Structures-with-JAVA">Data Structures with Java</a></h3>
+      <h3>🧩 <a href="https://github.com/Jashan37/Data-Structures-with-JAVA">Data Structures with Java</a></h3>
       <p>Core data structures implemented from scratch (dynamic arrays, linked lists and graphs) to understand how they really work under the hood.</p>
       <p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /></p>
     </td>
@@ -106,14 +106,14 @@ I'm a developer who likes building things end to end: the API, the data behind i
 ## 📈 GitHub activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jashan037&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Jashan37&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub streak" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jashan037/jashan037/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jashan037/jashan037/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/jashan037/jashan037/output/github-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jashan37/Jashan37/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jashan37/Jashan37/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Jashan37/Jashan37/output/github-snake.svg" width="100%" />
   </picture>
 </p>
 
